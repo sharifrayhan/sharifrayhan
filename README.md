@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Sharif Rayhan Nafi
 #### Passionate Full-Stack Developer
-![Passionate Full-Stack Developer](https://i.ibb.co/FgVztmW/git-banner.png)
+![Passionate Full-Stack Developer](https://i.ibb.co/cXzLYpJ/a-git-banner.png)
 
 # 💫 About Me:
 A dedicated full-stack developer in Khulna, Bangladesh who is passionate about turning ideas into web experiences using cutting-edge technology. From problem-solving to embracing innovation, each project is a canvas for creativity. Join me on this coding journey where every line of code tells a unique story. Let's craft the future of the web together! 💻✨
