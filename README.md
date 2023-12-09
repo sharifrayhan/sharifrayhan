@@ -2,7 +2,7 @@
 <p align="center">
   <a><img src="https://readme-typing-svg.herokuapp.com?lines=React+Developer;Full+Stack+Developer;MERN+Stack+Developer;Frontend+Specialist;&center=true&width=500&height=50"></a>
 </p>
-[![Header](https://github.com/sharifrayhan/sharifrayhan/blob/main/git-banner.png?raw=true 'Sharif Rayhan Cover')](https://github.com/sharifrayhan)
+[![Header](https://github.com/sharifrayhan/sharifrayhan/raw/main/git-banner.png 'Sharif Rayhan Cover')](https://github.com/sharifrayhan)
 
 <h2 align="center">💫 About Me</h2>
 A dedicated full-stack developer in Khulna, Bangladesh who is passionate about turning ideas into web experiences using cutting-edge technology. From problem-solving to embracing innovation, each project is a canvas for creativity. Join me on this coding journey where every line of code tells a unique story. Let's craft the future of the web together! 💻✨
