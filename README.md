@@ -45,7 +45,7 @@ A dedicated full-stack developer in Khulna, Bangladesh who is passionate about t
 
 <h2 align="center">📈 Stats </h2>
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sharifrayhan&theme=tokyonight&hide_border=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+![](https://raw.githubusercontent.com/sharifrayhan/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 </div>
 
   
