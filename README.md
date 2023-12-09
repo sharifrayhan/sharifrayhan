@@ -1,12 +1,14 @@
-### Hi there! 👋 I'm Sharif Rayhan Nafi
-#### Passionate Full-Stack Developer
+<h1 align="center">Hello, I'm Sharif Rayhan Nafi:wave:</h1>
+<p align="center">
+  <a><img src="https://readme-typing-svg.herokuapp.com?lines=React+Developer;Full+Stack+Developer;MERN+Stack+Developer;Frontend+Specialist;&center=true&width=500&height=50"></a>
+</p>
 ![Passionate Full-Stack Developer](https://i.ibb.co/cXzLYpJ/a-git-banner.png)
 
 <h2 align="center">💫 About Me</h2>
 A dedicated full-stack developer in Khulna, Bangladesh who is passionate about turning ideas into web experiences using cutting-edge technology. From problem-solving to embracing innovation, each project is a canvas for creativity. Join me on this coding journey where every line of code tells a unique story. Let's craft the future of the web together! 💻✨
 
 
-<h2 align="center">🌐 Socials</h2>
+<h2 align="center">☕ Connect with me!</h2>
 <div align="center">
 <a href="https://instagram.com/sharifrayhannafi">
 <img src="https://skillicons.dev/icons?i=instagram" />
@@ -21,9 +23,23 @@ A dedicated full-stack developer in Khulna, Bangladesh who is passionate about t
 <br/>
 <div align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,express,firebase,mongodb,c,java" /><br> <img src="https://skillicons.dev/icons?i=react,html,css,vscode,figma, git" />
+<img src="https://skillicons.dev/icons?i=react,html,css,nodejs,jwt,javascript,tailwind,mongoose,express,firebase,mongodb" /><br> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,illustrator,aftereffects" />
 </a>
 </div>
+
+
+<h2 align="center">🔍 Current Overview</h2>
+✨ I’m currently learning Three JS, Next JS, MUI
+
+👯 I’m looking to collaborate on Frontend Projects
+
+♨ Check out my portfolio and projects at (https://github.com/sharifrayhan)
+
+💬 Let's talk about React, Vanilla JS, Tailwind CSS
+
+📧 Reach me at : sharifrayhan.official@gmail.com
+
+⚡ When I'm not 💻 immersed in coding, I channel my creativity into crafting 🎨 visually appealing designs as a graphic designer.
 
 
 <h2 align="center"> Stats </h2>
