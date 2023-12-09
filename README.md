@@ -29,6 +29,7 @@ A dedicated full-stack developer in Khulna, Bangladesh who is passionate about t
 
 
 <h2 align="center">🔍 Current Overview</h2>
+
 ✨ I’m currently learning Three JS, Next JS, MUI
 
 👯 I’m looking to collaborate on Frontend Projects
@@ -42,7 +43,7 @@ A dedicated full-stack developer in Khulna, Bangladesh who is passionate about t
 ⚡ When I'm not 💻 immersed in coding, I channel my creativity into crafting 🎨 visually appealing designs as a graphic designer.
 
 
-<h2 align="center"> Stats </h2>
+<h2 align="center">📈 Stats </h2>
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sharifrayhan&theme=tokyonight&hide_border=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </div>
