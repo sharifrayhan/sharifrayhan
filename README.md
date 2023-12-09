@@ -26,8 +26,8 @@ A dedicated full-stack developer in Khulna, Bangladesh who is passionate about t
 </div>
 
 
-<h2 align="center"> 💰 You can help me by Donating</h2>
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rayhannafi) 
+<h2 align="center"> Stats </h2>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sharifrayhan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
   
 
