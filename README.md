@@ -23,7 +23,7 @@ A dedicated full-stack developer in Khulna, Bangladesh who is passionate about t
 <br/>
 <div align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=react,html,css,nodejs,jwt,javascript,tailwind,mongoose,express,firebase,mongodb" /><br> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,illustrator,aftereffects" />
+<img src="https://skillicons.dev/icons?i=react,html,css,nodejs,jsonwebtoken,javascript,tailwind,express,firebase,mongodb" /><br> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,illustrator,aftereffects" />
 </a>
 </div>
 
