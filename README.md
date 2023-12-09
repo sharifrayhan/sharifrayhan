@@ -45,7 +45,7 @@ A dedicated full-stack developer in Khulna, Bangladesh who is passionate about t
 
 <h2 align="center">📈 Stats </h2>
 <div align="center">
-![](https://raw.githubusercontent.com/sharifrayhan/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=false">    <img  alt="sharifrayhan's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/sharifrayhan?cardType=github&theme=github-dark&preferLogin=false" />  </a>
 </div>
 
   
