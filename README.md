@@ -7,6 +7,15 @@ A dedicated full-stack developer in Khulna, Bangladesh who is passionate about t
 
 
 ## 🌐 Socials:
+<div align="center">
+<a href="https://instagram.com/sharifrayhannafi">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+<a href="www.linkedin.com/in/
+/sharifrayhannafi">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+ </div>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sharifrayhannafi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharif-rayhan-nafi-278725181) 
 
 # 💻 Tech Stack:
@@ -14,7 +23,7 @@ A dedicated full-stack developer in Khulna, Bangladesh who is passionate about t
 <br/>
 <div align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?inodejs, github, python, javascript, express, firebase, mongodb, c, java" /><br> <img src="https://skillicons.dev/icons?i=react,r,mui,html, css,vscode, figma, git" />
+<img src="https://skillicons.dev/icons?i=nodejs, github, python, javascript, express, firebase, mongodb, c, java" /><br> <img src="https://skillicons.dev/icons?i=react, html, css, vscode, figma, git" />
 </a>
 </div>
 
