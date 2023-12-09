@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Sharif Rayhan Nafi:wave:</h1>
+<h1 align="center">Hello, I'm Sharif Rayhan Nafi 👋</h1>
 <p align="center">
   <a><img src="https://readme-typing-svg.herokuapp.com?lines=React+Developer;Full+Stack+Developer;MERN+Stack+Developer;Frontend+Specialist;&center=true&width=500&height=50"></a>
 </p>
